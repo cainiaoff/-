@@ -46,3 +46,7 @@ body {
   .layui-input {
     padding-left: 32px;
   }
+  .layui-footer {
+    text-align: center;
+    font-size: 12px;
+  }
